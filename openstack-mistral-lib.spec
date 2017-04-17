@@ -3,7 +3,7 @@
 
 %{?!_licensedir:%global license %%doc}
 
-Name:           openstack-mistral-lib
+Name:           python-mistral-lib
 Summary:        Python library for Mistral custom actions
 Version:        XXX
 Release:        XXX
